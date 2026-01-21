@@ -6,7 +6,7 @@ An interactive analytics dashboard analyzing **92,000+ real estate transactions*
 
 ## 🔗 Live Demo
 
-**[View Live Dashboard](https://github.com/SujataPrabhakar/Abu-Dhabi-Property-Market-Analysis/)**
+**[View Live Dashboard](https://sujataprabhakar.github.io/Abu-Dhabi-Property-Market-Analysis/)**
 
 ---
 
@@ -73,7 +73,7 @@ An interactive analytics dashboard analyzing **92,000+ real estate transactions*
 ## 🚀 Quick Start
 
 ### Option 1: View Online
-Simply visit the [Live Demo](https://github.com/SujataPrabhakar/Abu-Dhabi-Property-Market-Analysis/)
+Simply visit the [Live Demo](https://sujataprabhakar.github.io/Abu-Dhabi-Property-Market-Analysis/)
 
 ### Option 2: Run Locally
 ```bash
