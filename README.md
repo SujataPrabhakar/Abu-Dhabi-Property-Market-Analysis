@@ -1,4 +1,4 @@
-# Abu Dhabi Real Estate Market Analytics Dashboard
+# Abu Dhabi Property Market Analytics Dashboard
 
 An interactive analytics dashboard analyzing **92,000+ real estate transactions** in Abu Dhabi, featuring market trends, campaign targeting insights, and district-level drill-downs.
 
